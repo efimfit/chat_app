@@ -9,7 +9,7 @@ ___
 
 Flutter 3.3.10 • Dart 2.18.6
 
-Authentication and work with data were implemented using official Firebase plugins (aka Firebase SDK):
+Authentication and work with data are implemented using official Firebase plugins (aka Firebase SDK):
 - `cloud_firestore 4.3.1`
 - `firebase_core 2.4.1`
 - `firebase_auth 4.2.4`
@@ -23,7 +23,6 @@ This made it possible to work with such Firebase services as:
 
 - Storage (for storing users avatar images)
 - Messaging (for notifications)
-
 
 ___
 ## Useful links
